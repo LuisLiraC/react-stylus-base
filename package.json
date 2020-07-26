@@ -1,13 +1,17 @@
 {
   "name": "react-stylus",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is just a boilerpate to initialize React projects using Stylus and Webpack.",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --watch --mode development",
     "build": "webpack -p"
   },
-  "keywords": [],
+  "keywords": [
+    "React",
+    "Webpack",
+    "Stylus"
+  ],
   "author": "LuisLiraC <luisliradev@gmail.com> (https://luislira.xyz/)",
   "license": "MIT",
   "devDependencies": {
